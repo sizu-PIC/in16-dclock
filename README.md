@@ -26,3 +26,15 @@ MPLABX のバージョンとかもちゃんと調べておきたいですね．
 - [ ] 想定している回路図
   - このプログラムがどういう回路を想定したものなのかを示したい．
     - でないと何故このピンを high / low しているの？とかがわからないから．
+
+## 参考
+
+今回のニキシー管時計やそのプログラムを作成するにあたって参考にさせて頂いたサイトです．
+ありがとうございました．
+
+- [【STEINS;GATE】ダイバージェンスメーターver2.000　作ってみました【くろや】](https://www.youtube.com/watch?v=zzIE0lq0-xY&t=412s)
+- [【STEINS;GATE】ダイバージェンスメーターver2.001　作ってみました【くろや】](https://www.youtube.com/watch?v=g4h8LvY5Uvw)
+- [ダイバージェンスメーターTV版作ってみました【くろや】　Divergence　Meter](https://www.youtube.com/watch?v=EB0NIFx7f5E)
+- [ダイバージェンスメーター](https://www.youtube.com/watch?v=7qoxnkneIpA)
+- [ダイバージェンスメーター(ニキシー管時計)](https://www.youtube.com/watch?v=6DML1LP6F_M)
+- []()
